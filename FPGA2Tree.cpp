@@ -1,6 +1,6 @@
 //*********************************************************************************************
 //*  Project : FPGA Functional Safety Analysis
-//*  Function : 
+//*  Function : Transfere FPGA design into Tree Data Structure
 //*********************************************************************************************
 //*  Author : Mohammad Mahdi Karimi
 //*  Email : mmkarimi@aggies.ncat.edu
